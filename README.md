@@ -1,4 +1,4 @@
-# Categorizing-Movie-Reviews
+# Categorizing Movie Reviews
 Let's develop a system for filtering and categorizing movie reviews
 
 <img width="881" alt="1" src="https://github.com/Vincent-Ambrose/Categorizing-Movie-Reviews/assets/118930159/cb0a98f0-97f8-4a89-8861-0bba46ab7f0e">
